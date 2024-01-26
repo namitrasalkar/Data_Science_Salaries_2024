@@ -1,7 +1,7 @@
 # Data_Science_Salaries_2024
 
 Data:
-The dataset used in this analysis was imported from [Kaggle]: https://www.kaggle.com/datasets/sazidthe1/data-science-salaries. The dataset contains information on job titles, experience levels, employment types, work models, work years, employee residences, salaries, salary currencies, salary in USD, company locations, and company sizes. The dataset was cleaned and preprocessed before performing any analysis.
+The dataset used in this analysis was imported from (https://www.kaggle.com/datasets/sazidthe1/data-science-salaries). The dataset contains information on job titles, experience levels, employment types, work models, work years, employee residences, salaries, salary currencies, salary in USD, company locations, and company sizes. The dataset was cleaned and preprocessed before performing any analysis.
 
 Analysis:
 1. Average Salaries of Job Titles:
